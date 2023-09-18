@@ -41,8 +41,8 @@ const Navbar = () => {
       <nav className="navbar">
         <div className="navbar__container">
           <Link to={"/"} className="navbar__container__logo">
-            {/* <FaReact size={60} /> */}
-            <img src="https://www.pngitem.com/pimgs/m/238-2384301_portfolio-portfolio-pink-png-transparent-png.png" className="logo" alt="" />
+            <FaReact size={60} />
+            {/* <img src="https://www.pngitem.com/pimgs/m/238-2384301_portfolio-portfolio-pink-png-transparent-png.png" className="logo" alt="" /> */}
           </Link>
         </div>
         <ul

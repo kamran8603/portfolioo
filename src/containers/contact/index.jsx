@@ -26,7 +26,7 @@ const Contact = () => {
       <form ref={form} onSubmit={sendEmail}>
       <PageHeaderContent
         headerText="My Contact"
-        icon={<BsInfoCircleFill size={40} />}
+        icon={<BsInfoCircleFill size={30} />}
       />
       {
         emailSent ? 
