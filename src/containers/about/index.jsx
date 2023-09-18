@@ -9,28 +9,28 @@ import { FaDev, FaDatabase } from "react-icons/fa";
 const personalDetails = [
   {
     label: "Name",
-    value: "John Doe",
+    value: "Kamran Haider",
   },
   {
-    label: "Age",
-    value: "27",
+    label: "Date 0f Birth",
+    value: "05-10-1995",
   },
   {
     label: "Address",
-    value: "India",
+    value: "Banglore",
   },
   {
     label: "Email",
-    value: "demo@example.com",
+    value: "haiderkamran2@gmail.com",
   },
   {
     label: "Contact No",
-    value: "+11 3456789056",
+    value: "+918603675807",
   },
 ];
 
 const jobSummary =
-  "Seasoned and independent Front End Developer with 5 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging. Very passionate about aesthetics and UI design. It is imperative that you provide a thorough and professional approach to your resume. As a Front End Developer you will be judged by your ability to use UX and UI concepts and follow design guidelines. It is about expressing your attention to detail and how you can help implement design ideas for your future employer";
+  "An independent and self-motivated individual willing to work hard and explore new opportunities. I love to execute my work in the best possible way and am willing to contribute for the growth of the organization by perpetually enhancing my skills. Would love to know people and organizations !";
 
 const About = () => {
   return (
